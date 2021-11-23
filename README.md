@@ -25,7 +25,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 
 ## Demo 
 
-heroku: - https://git.heroku.com/movierecommendationsaqi.git
+heroku: -https://movierecommendationsaqi.herokuapp.com/
 
 ## Architecture
 
